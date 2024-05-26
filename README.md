@@ -1,6 +1,8 @@
-# semantic-movie-search TMDB Top Movies
+# TMDB Top Movies Semantic Search
 
 This Streamlit app allows you to search for top movies from TMDB and displays detailed information about them, including links to their YTS pages if available.
+
+![App Screenshot](https://github.com/TharinduMadhusanka/semantic-movie-/blob/main/Screenshot%20Movie%20semantic%20search.png)
 
 ## Setup
 
