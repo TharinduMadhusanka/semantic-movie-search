@@ -1,0 +1,4 @@
+chromadb
+streamlit
+requests
+python-dotenv
