@@ -6,7 +6,7 @@ This Streamlit app allows you to search for top movies from TMDB and displays de
 
 1. **Clone the repository**:
     ```bash
-    git clone [https://github.com/TharinduMadhusanka/semantic-movie-search.git]
+    git clone https://github.com/TharinduMadhusanka/semantic-movie-search.git
     cd tmdb_top_movies
     ```
 
