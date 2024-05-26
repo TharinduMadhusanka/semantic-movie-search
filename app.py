@@ -6,7 +6,7 @@ from YTS_url import get_movie_page_url
 
 # Initialize ChromaDB client and collection
 chroma_client = chromadb.PersistentClient(path="tmdbtopmovies")
-sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="models")
+sentence_transformer_ef = embedding_functions.SentenceTransformerEmbeddingFunction(model_name="all-MiniLM-L12-v2")
 collection = chroma_client.get_or_create_collection(name="movies_collection", embedding_function=sentence_transformer_ef)
 
 
