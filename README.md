@@ -45,8 +45,6 @@ This Streamlit app allows you to search for top movies from TMDB and displays de
 - `TMDB.py`: Contains the `api_response` function to fetch data from TMDB API.
 - `YTS_url.py`: Contains the `get_movie_page_url` function to get the YTS movie page URL.
 - `requirements.txt`: Lists the dependencies.
-- `.gitignore`: Specifies files and directories to ignore.
-- `README.md`: Provides an overview and instructions on how to run the project.
 
 ## Database (Optional)
 
